@@ -17,7 +17,6 @@ class MapsAdapter(val context: Context, val userMaps: List<UserMap>, val onClick
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        //val view = LayoutInflater.from(context).inflate(R.layout.item_user_map, parent, false)
         val view = LayoutInflater.from(context).inflate(R.layout.item_user_map_ext, parent, false)
         return ViewHolder(view)
     }
@@ -29,11 +28,10 @@ class MapsAdapter(val context: Context, val userMaps: List<UserMap>, val onClick
             onClickListener.onItemClick(position)
         }
 
-        //val textViewTitle = holder.itemView.findViewById<TextView>(R.id.tvMapTitle)
+        // set the text fields in the recycler view
         val textViewTitle = holder.itemView.findViewById<TextView>(R.id.tvMapTitleExt)
         textViewTitle.text = userMap.title
 
-        // probably need to add the # of pins here
         val textViewPins = holder.itemView.findViewById<TextView>(R.id.tvPinTitleExt)
         textViewPins.text = userMap.places.size.toString()
     }
