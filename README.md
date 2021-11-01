@@ -27,7 +27,7 @@ GIF created with [Imgur](https://imgur.com/vidgif).
 
 ## Notes
 
-It was difficult figuring out how to modify each item on the recycler view to contain multiple text views. One other extension I wanted to try was adding the option for users to delete maps they created.
+It was difficult figuring out how to modify each item on the recycler view to contain multiple text views. One other extension I wanted to try was adding the option for users to delete maps they created, but I had trouble figuring out how to do that.
 
 ## License
 
