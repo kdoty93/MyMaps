@@ -23,7 +23,7 @@ The following **extensions** are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='//imgur.com/a/DVGG4Vw' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/B4eeGce' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Imgur](https://imgur.com/vidgif).
 
