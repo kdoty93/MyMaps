@@ -21,9 +21,7 @@ The following **extensions** are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src='https://imgur.com/B4eeGce' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories: https://imgur.com/B4eeGce
 
 GIF created with [Imgur](https://imgur.com/vidgif).
 
